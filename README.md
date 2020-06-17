@@ -2,5 +2,6 @@
 
 ### Testes e dasafios iniciais do LaunchBase da RocketSeat.
 
-- Primeiro desafio == Calculo de imc.
+- Primeiro desafio == Cálculo de imc.
+- Segundo desafio == Cálculo aposentadoria (simplificado)
 - Objetos
