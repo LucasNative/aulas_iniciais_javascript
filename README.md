@@ -1,6 +1,6 @@
 # Iniciando no Javascript
 
-### Testes e dasafios iniciais do LaunchBase da RocketSeat.
+### Testes, dasafios e exercícios iniciais do LaunchBase da RocketSeat.
 
 - Arrays.
 - Exercício de funções feito durante a aula. 
