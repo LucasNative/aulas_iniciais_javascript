@@ -2,6 +2,7 @@
 
 ### Testes, dasafios e exercícios iniciais do LaunchBase da RocketSeat.
 
+- Exercicio operadores boleanos, review do codigo, padronização e mudança para inglês.  
 - Arrays.
 - Exercício de funções feito durante a aula. 
 - Exercício de funções/milha extra/ comentário linha a linha.
