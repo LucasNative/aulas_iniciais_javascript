@@ -10,5 +10,5 @@
 - Segundo desafio == Cálculo aposentadoria (simplificado).
 - Terceiro desafio == Dados de uma empresa em um Objeto.
 - Quarto desafio == Armazenar dados de um programador utilizando Arrays e Objetos.
-- Exercício de função/repetição == programa faz caĺculo de meta de venda, utilizando laço de repetição
+- Exercício de função/repetição == programa faz cálculo de meta de venda, utilizando laço de repetição
 - Objetos.
